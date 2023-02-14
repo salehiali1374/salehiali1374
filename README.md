@@ -22,19 +22,17 @@
 
 ## 🛠️ Skills
 
-![Artificial Intelligence](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Machine Learning](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-![Deep Learning](https://img.shields.io/badge/Chakra_UI-319795?style=for-the-badge&logo=chakra-ui&logoColor=white)
-![Deep Reinforcement Learning](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
-![Fuzzy Logic](https://img.shields.io/badge/Material_UI-0081CB?style=for-the-badge&logo=mui&logoColor=white)
-![Evolutionary Algorithms](https://img.shields.io/badge/Progressive_Web_App-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)
-![NLP](https://img.shields.io/badge/tailwind_css-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Business Intelligence](https://img.shields.io/badge/storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white)
+![Artificial Intelligence](https://img.shields.io/badge/Artificial_Intelligence-20232A?style=for-the-badge&logo=Artificial_Intelligence&logoColor=61DAFB)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-593D88?style=for-the-badge&logo=Machine_Learning&logoColor=white)
+![Deep Learning](https://img.shields.io/badge/Deep_Learning-319795?style=for-the-badge&logo=Deep_Learning&logoColor=white)
+![Deep Reinforcement Learning](https://img.shields.io/badge/Deep_Reinforcement_Learning-CA4245?style=for-the-badge&logo=Deep_Reinforcement_Learning&logoColor=white)
+![Fuzzy Logic](https://img.shields.io/badge/Fuzzy_Logic-0081CB?style=for-the-badge&logo=Fuzzy_Logic&logoColor=white)
+![Evolutionary Algorithms](https://img.shields.io/badge/Evolutionary_Algorithms-4285F4?style=for-the-badge&logo=Evolutionary_Algorithms&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-06B6D4?style=for-the-badge&logo=NLP&logoColor=white)
+![Business Intelligence](https://img.shields.io/badge/Business_Intelligence-FF4785?style=for-the-badge&logo=Business_Intelligence&logoColor=white)
 ![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![MATLAB](https://img.shields.io/badge/Dart-28B6F6?style=for-the-badge&logo=dart&logoColor=white)
-![CPP](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Microsoft Powerbi](https://img.shields.io/badge/Next-000000?style=for-the-badge&logo=nextdotjs&logoColor=FFFFFF)
+![MATLAB](https://img.shields.io/badge/MATLAB-28B6F6?style=for-the-badge&logo=MATLAB&logoColor=white)
+![Microsoft Powerbi](https://img.shields.io/badge/Microsoft_Powerbi-000000?style=for-the-badge&logo=Microsoft_Powerbi&logoColor=FFFFFF)
 
 ## 📈 Stats
 
