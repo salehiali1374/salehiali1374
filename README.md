@@ -29,21 +29,11 @@
 ![Fuzzy Logic](https://img.shields.io/badge/Fuzzy_Logic-0081CB?style=for-the-badge&logo=Fuzzy_Logic&logoColor=white)
 ![Evolutionary Algorithms](https://img.shields.io/badge/Evolutionary_Algorithms-4285F4?style=for-the-badge&logo=Evolutionary_Algorithms&logoColor=white)
 ![NLP](https://img.shields.io/badge/NLP-06B6D4?style=for-the-badge&logo=NLP&logoColor=white)
-![Business Intelligence](https://img.shields.io/badge/Business_Intelligence-FF4785?style=for-the-badge&logo=Business_Intelligence&logoColor=white)
-![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-28B6F6?style=for-the-badge&logo=MATLAB&logoColor=white)
-![Microsoft Powerbi](https://img.shields.io/badge/Microsoft_Powerbi-000000?style=for-the-badge&logo=Microsoft_Powerbi&logoColor=FFFFFF)
+
 
 ## 📈 Stats
 
-<div align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=salehiali1374&row=1&column=6&margin-h=8&theme=darkhub&count_private=true&margin-w=15&no-frame=true" alt="profile trophies" />
-    <br />
-    <img src="https://github-readme-stats.vercel.app/api?username=salehiali1374&show_icons=true&hide_border=true" alt="TAli Salehi's GitHub Stats">
-    <br />
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=salehiali1374" alt="visitors">
-</div>
-
-## 🔗 Links
-
-[![linked-in](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/ali-salehi-076a76102/)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=salehiali1374&theme=transparent)
+![](https://github-readme-streak-stats.herokuapp.com?user=salehiali1374&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=700&hide_current_streak=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=salehiali1374&layout=donut&langs_count=4&theme=transparent&hide_border=true&hide_title=true)
+![](https://github-readme-stats.vercel.app/api?username=salehiali1374&theme=transparent&show_icons=true&include_all_commits=true&hide_rank=true&hide=contribs&hide_title=true&hide_border=true)
