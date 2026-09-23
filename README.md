@@ -1,39 +1,29 @@
-# Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px" height="29px">
+# Ali Salehi
 
-## 🚀 About Me
+**Applied AI / LLM Engineer** with a research background in reinforcement learning, fuzzy control and evolutionary optimization.
 
-🎓 I am Ali Salehi, an **AI Researcher & Developer** (specializing in **Deep Reinforcement Learning**) and a **R&D / Data Specialist** at [**AHD Co.**](https://ahdsoft.ir/). I am also got my M.S. degree in **Artificial Intelligence** at [**Ferdowsi University of Mashhad**](https://en.um.ac.ir/).
+I build AI systems in Python, with a current focus on LLM applications: retrieval-augmented generation (RAG), retrieval quality and evaluation, and tool-calling agents, served with FastAPI and packaged with Docker. My research background shapes how I work on these systems: controlled experiments, honest baselines and measured results.
 
-👨‍💻 I enjoy contributing to **AI Projects** or anything that has something to do with **Data**. I am really enthusiastic about learning new technology. 
+- M.S. in Artificial Intelligence, [Ferdowsi University of Mashhad](https://en.um.ac.ir/)
+- R&D / Data Specialist at [AHD Co.](https://ahdsoft.ir/)
+- Languages: English, Persian
 
-🎸 Outside the world of tech too, I enjoy pushing myself to develop new skills. My hobbies range from **Violin**, **Gym**, and **Cooking** to some whacky ones like **laughing for no reason**.
+## Selected work
 
-📚 I also love reading books, watching movies or anime, or listening to podcasts. My favorite ones are **The Lord of The Ring**, **Naruto**, and [**Epitome Books**](https://epitomebooks.ir/)
+| Repository | What it shows |
+| --- | --- |
+| [Interval-Type-2-Fuzzy-Control…COVID-19](https://github.com/salehiali1374/Interval-Type-2-Fuzzy-Control-and-Stochastic-Modeling-of-COVID-19-Spread) | Official code for a journal paper (Computer Methods and Programs in Biomedicine, 2023): GA-optimized type-2 fuzzy control of a stochastic epidemic model, compared against PD, PID and type-1 fuzzy baselines |
+| [VIETFC](https://github.com/salehiali1374/VIETFC) | Code for a follow-up study on evolutionary type-2 fuzzy control under vaccination and isolation constraints |
+| [Persian-Sentiment-Classification](https://github.com/salehiali1374/Persian-Sentiment-Classification) | Fine-tuning ParsBERT (Hugging Face Transformers, PyTorch) for Persian text classification |
+| [Q-learning UAV path planning](https://github.com/salehiali1374/Q-learning-based-unmanned-aerial-vehicle-path-planning-with-dynamic-obstacle-avoidance) | Python reproduction and benchmark of A\*, Dijkstra, SARSA and Q-learning variants for UAV path planning |
+| [Introduction-to-NLP-Workshop](https://github.com/salehiali1374/Introduction-to-NLP-Workshop) | Teaching material from an NLP workshop at the ICDS.ai Summer Bootcamp |
 
-## 📝 Publication
+## Publications
 
--   📝 **Control of P53 gene regulatory network based on deep reinforcement learning and its application in cancer** at __9th Iranian Joint Congress on Fuzzy and Intelligent Systems (CFIS2022)__
--   📝 **Improving the Overestimation in off-policy deep reinforcement learning using Deep Selective Update Network (DSUN)** at __27th International Computer Conference Computer, the Society of Iran 2022__
+- H. Rafiei, **A. Salehi**, F. Baghbani, P. Parsa, M.-R. Akbarzadeh-T. *Interval type-2 fuzzy control and stochastic modeling of COVID-19 spread based on vaccination and social distancing rates.* Computer Methods and Programs in Biomedicine, 232, 107443, 2023. [doi:10.1016/j.cmpb.2023.107443](https://doi.org/10.1016/j.cmpb.2023.107443)
+- *Control of P53 gene regulatory network based on deep reinforcement learning and its application in cancer.* 9th Iranian Joint Congress on Fuzzy and Intelligent Systems (CFIS 2022). **Best Paper "AI for Good" Award.**
+- *Improving the overestimation in off-policy deep reinforcement learning using Deep Selective Update Network (DSUN).* 27th International Computer Conference, Computer Society of Iran, 2022.
 
-## 📝 Achievements
+## Tools
 
--   📝 **Best Paper “AI for Good” Award Certificate** at __9th Iranian Joint Congress on Fuzzy and Intelligent Systems (CFIS2022)__
-
-
-## 🛠️ Skills
-
-![Artificial Intelligence](https://img.shields.io/badge/Artificial_Intelligence-20232A?style=for-the-badge&logo=Artificial_Intelligence&logoColor=61DAFB)
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-593D88?style=for-the-badge&logo=Machine_Learning&logoColor=white)
-![Deep Learning](https://img.shields.io/badge/Deep_Learning-319795?style=for-the-badge&logo=Deep_Learning&logoColor=white)
-![Deep Reinforcement Learning](https://img.shields.io/badge/Deep_Reinforcement_Learning-CA4245?style=for-the-badge&logo=Deep_Reinforcement_Learning&logoColor=white)
-![Fuzzy Logic](https://img.shields.io/badge/Fuzzy_Logic-0081CB?style=for-the-badge&logo=Fuzzy_Logic&logoColor=white)
-![Evolutionary Algorithms](https://img.shields.io/badge/Evolutionary_Algorithms-4285F4?style=for-the-badge&logo=Evolutionary_Algorithms&logoColor=white)
-![NLP](https://img.shields.io/badge/NLP-06B6D4?style=for-the-badge&logo=NLP&logoColor=white)
-
-
-## 📈 Stats
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=salehiali1374&theme=transparent)
-![](https://github-readme-streak-stats.herokuapp.com?user=salehiali1374&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=700&hide_current_streak=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=salehiali1374&layout=donut&langs_count=4&theme=transparent&hide_border=true&hide_title=true)
-![](https://github-readme-stats.vercel.app/api?username=salehiali1374&theme=transparent&show_icons=true&include_all_commits=true&hide_rank=true&hide=contribs&hide_title=true&hide_border=true)
+Python · PyTorch · Hugging Face Transformers · scikit-learn · Keras · FastAPI · Docker · MATLAB · Git / Linux
