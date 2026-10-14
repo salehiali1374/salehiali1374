@@ -5,13 +5,14 @@
 I build AI systems in Python, with a current focus on LLM applications: retrieval-augmented generation (RAG), retrieval quality and evaluation, and tool-calling agents, served with FastAPI and packaged with Docker. My research background shapes how I work on these systems: controlled experiments, honest baselines and measured results.
 
 - M.S. in Artificial Intelligence, [Ferdowsi University of Mashhad](https://en.um.ac.ir/)
-- R&D / Data Specialist at [AHD Co.](https://ahdsoft.ir/)
+- CTO at [AHD Soft](https://ahdsoft.ir/) (previously Data Team Lead and Senior Data Scientist): led Yarabot, a Persian generative-AI platform with 80K+ users, SaaS RAG agents and private on-GPU LLM deployments for enterprise customers
 - Languages: English, Persian
 
 ## Selected work
 
 | Repository | What it shows |
 | --- | --- |
+| [hybrid-rag-eval](https://github.com/salehiali1374/hybrid-rag-eval) | Hybrid retrieval (BM25 + dense), cross-encoder reranking and evaluation for Persian RAG, served with FastAPI and Docker. On PersianQA (651 test questions), recall@1 rises from 0.909 (BM25) to 0.962 (tuned hybrid) and 0.986 (with bge-reranker-v2-m3); CI runs tests and a retrieval quality gate |
 | [Interval-Type-2-Fuzzy-Control…COVID-19](https://github.com/salehiali1374/Interval-Type-2-Fuzzy-Control-and-Stochastic-Modeling-of-COVID-19-Spread) | Official code for a journal paper (Computer Methods and Programs in Biomedicine, 2023): GA-optimized type-2 fuzzy control of a stochastic epidemic model, compared against PD, PID and type-1 fuzzy baselines |
 | [VIETFC](https://github.com/salehiali1374/VIETFC) | Code for a follow-up study on evolutionary type-2 fuzzy control under vaccination and isolation constraints |
 | [Persian-Sentiment-Classification](https://github.com/salehiali1374/Persian-Sentiment-Classification) | Fine-tuning ParsBERT (Hugging Face Transformers, PyTorch) for Persian text classification |
@@ -26,4 +27,4 @@ I build AI systems in Python, with a current focus on LLM applications: retrieva
 
 ## Tools
 
-Python · PyTorch · Hugging Face Transformers · scikit-learn · Keras · FastAPI · Docker · MATLAB · Git / Linux
+Python · PyTorch · Hugging Face Transformers · scikit-learn · Keras · FastAPI · Elasticsearch · MongoDB · Redis · Docker · GitHub Actions · MATLAB · Git / Linux
